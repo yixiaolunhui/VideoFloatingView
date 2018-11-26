@@ -2,10 +2,9 @@
 视频最小化浮窗窗口，仿微信，QQ视频通话浮窗
 
 # 图片展示
-
-![image](https://github.com/dalong982242260/VideoFloatingView/blob/master/jpg/1.jpg?raw=true)
-![image](https://github.com/dalong982242260/VideoFloatingView/blob/master/jpg/2.jpg?raw=true)
-![image](https://github.com/dalong982242260/VideoFloatingView/blob/master/jpg/3.jpg?raw=true)
+<img src="https://github.com/dalong982242260/VideoFloatingView/blob/master/jpg/1.jpg?raw=true" width="375" />
+<img src="https://github.com/dalong982242260/VideoFloatingView/blob/master/jpg/2.jpg?raw=true" width="375" />
+<img src="https://github.com/dalong982242260/VideoFloatingView/blob/master/jpg/3.jpg?raw=true" width="375" />
 
 # 说明
 
@@ -31,3 +30,4 @@ demo是根据视频通话界面（这里只是放了一个本地相机展示）�
           e.printStackTrace();
      } 
                     
+
