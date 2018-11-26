@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/call_float_root_view"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center">
+
+    <com.google.android.cameraview.CameraView
+        android:id="@+id/camera"
+        android:layout_width="90dp"
+        android:layout_height="120dp"
+        android:adjustViewBounds="true"
+        android:keepScreenOn="true"
+        app:aspectRatio="3:4"
+        app:autoFocus="true"
+        app:facing="back"
+        app:flash="auto" />
+
+    <Chronometer
+        android:id="@+id/call_time_ch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:background="@android:color/white"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginTop="16dp"
+        android:ellipsize="end"
+        android:format="%s"
+        android:maxWidth="64dp"
+        android:maxLines="1"
+        android:textColor="#000000"
+        android:textSize="12sp" />
+</FrameLayout>
