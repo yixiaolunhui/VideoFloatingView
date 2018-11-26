@@ -1,4 +1,4 @@
-package com.dl.videofloating;
+package com.dl.videofloating.utils;
 
 import android.os.Handler;
 import android.view.View;

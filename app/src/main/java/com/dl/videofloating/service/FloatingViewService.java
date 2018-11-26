@@ -16,8 +16,8 @@ import android.widget.Toast;
 
 import com.dl.videofloating.R;
 import com.dl.videofloating.VideoCallActivity;
-import com.dl.videofloating.view.FloatingViewListener;
-import com.dl.videofloating.view.FloatingViewManager;
+import com.dl.videofloating.floatingview.FloatingViewListener;
+import com.dl.videofloating.floatingview.FloatingViewManager;
 import com.google.android.cameraview.CameraView;
 
 /**

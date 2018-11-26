@@ -1,4 +1,4 @@
-package com.dl.videofloating.view;
+package com.dl.videofloating.floatingview;
 
 import android.animation.TimeInterpolator;
 import android.animation.ValueAnimator;

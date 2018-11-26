@@ -1,4 +1,4 @@
-package com.dl.videofloating.view;
+package com.dl.videofloating.floatingview;
 
 import android.content.Context;
 import android.view.MotionEvent;

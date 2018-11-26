@@ -1,4 +1,4 @@
-package com.dl.videofloating.view;
+package com.dl.videofloating.floatingview;
 
 /**
  * 悬浮窗监听器
